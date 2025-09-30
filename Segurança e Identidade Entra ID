@@ -1,0 +1,8 @@
+Aprendi que tenho a possibilidade compartilhar usuarios locais para nuvem e sincroniza-los desde que, os dados de login e senhas entre outras informações de segurança estejam iguais.
+Caso for criado um usuario na nuvem, nao sera possivel compartilhar os dados para o host local. Como foi dito em aulas anteriores, sincronização  de dados somente dos usuarios locais.
+Aprendi a usar as opçoes de ferramentas de usuarios, as permissoes que podem ser atribuidas, Um detalhe importante é a opção de o usuario excluido ficar em stand by durante 30 dias para uma eventual busca de dados e informações que possam conter na conta.
+Uma função bacana e muito util e a opção de Self-service onde o usuario possa realizar o reset do seu login caso nao lembre é bem agil para evitar demora na realização dessa função.
+Excelente a forma de convidar um grupo de pessoas externas em grande escacala, para acessar o ambiente da empresa para possivel auditoria, ou demais ações.
+aprendi sobre Roles e administators e suas funcionalidades, como realizar as permissões a usuarios e tambem sobre o controle do SLA.
+Sobre o Defender for Cloud, euy consigo gerenciar a segurança do azure e tambem se conectar em outras redes de nuvem sem ser microsoft desde que tenha vinculado minha conta do azure.
+De modo geral, essa função de Segurança da cloud posso assim dizer que é bem completa e vem aumentando seus recursos e ferramentas para auxiliar no gerenciamento e controle de segurança das informações para as empresas e usuarios.
